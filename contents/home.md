@@ -4,8 +4,7 @@
 Hello! I am currently a PhD student in Behavioural Economics, School of Management, University of Bath, UK. I study how biased beliefs affect individual's decision. I am also interested in migrant workers' trust, gender norms and cooperative behaviour in China.
 
 #### Email
-sx463@bath.ac.uk 
-xusiyuabb2016@163.com
+sx463@bath.ac.uk & xusiyuabb2016@163.com
 
 #### Education
 M.Re., Agricultural Economic and Management, Nanjing Agricultural University, China, 2020—2023.\

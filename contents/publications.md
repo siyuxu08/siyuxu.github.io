@@ -1,4 +1,4 @@
-- <strong>Siyu Xu</strong>, Cui Fu. Horizon-depend Preference of Rural Women: Non-cooperative Behaviour among Migrant Spouses (2024). Working paper
+- <strong>Siyu Xu</strong>, Cui Fu. Horizon-depend Preference of Rural Women: Non-cooperative Behaviour among Migrant Spouses (2024). Working paper. Presented in China Association of Labor Economics Annual Conference
 
 - <strong>Siyu Xu</strong>, Does Altruism Affect the Utilization of the New Generation of Migrant Workers? (2024). Working paper
 
