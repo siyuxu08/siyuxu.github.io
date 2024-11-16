@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://https://github.com/siyuxu08)
+[![senli1073](https://img.shields.io/badge/siyuxu08-github-blue?logo=github)](https://https://github.com/siyuxu08)
 
 She is currently a PhD student in Behavioural Economics , at School of Management, University of Bath, UK.
 
