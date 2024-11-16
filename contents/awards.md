@@ -2,7 +2,7 @@
 
 - Best Master’s dissertation, 2023.
 
-- Honor Graduate, 2022.
+- Honor Graduate, 2023.
 
 - First Class Scholarship, 2021-2022.
 

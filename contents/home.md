@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/siyuxu08-github-blue?logo=github)](https://https://github.com/siyuxu08)
+[[Google Scholar]](https://scholar.google.com/citations?user=uHh_dAQAAAAJ&hl=zh-CN)
 
 She is currently a PhD student in Behavioural Economics , at School of Management, University of Bath, UK.
 
@@ -8,8 +8,8 @@ She is currently a PhD student in Behavioural Economics , at School of Managemen
 sx463@bath.ac.uk
 
 #### Education
-M.Re., Agricultural Economic and Management, Nanjing Agricultural University, China, 2020—2023 (expected).\
-B.E., Agricultural and Forestry Economic and Management, Jiangxi Agricultural University, China, 2016—2020.
+M.Re., Agricultural Economic and Management, Nanjing Agricultural University, China, 2020—2023.\
+B.A., Agricultural and Forestry Economic and Management, Jiangxi Agricultural University, China, 2016—2020.
 
 #### Research Interests
  Behavioural Economics, Labor Economics, Development Economics
