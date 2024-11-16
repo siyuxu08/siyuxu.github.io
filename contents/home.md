@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://https://github.com/siyuxu08)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She is currently a PhD student in Behavioural Economics , at School of Management, University of Bath, UK.
 
 #### Email
-sli[at]cumt.edu.cn
+sx463@bath.ac.uk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.Re., Agricultural Economic and Management, Nanjing Agricultural University, China, 2020—2023 (expected).\
+B.E., Agricultural and Forestry Economic and Management, Jiangxi Agricultural University, China, 2016—2020.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+ Behavioural Economics, Labor Economics, Development Economics
 

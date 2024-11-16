@@ -1,9 +1,9 @@
-- First-prize Academic Scholarship, 2023.
+- National Scholarships, 2022.
 
-- Freshman Academic Scholarship, 2022.
+- Best Master’s dissertation, 2023.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Honor Graduate, 2022.
 
-- First-prize Enterprise Scholarship, 2021.
+- First Class Scholarship, 2021-2022.
 
-- First-prize Academic Scholarship, 2019.
+- Outstanding Individual of Teaching Assistants, 2022.
